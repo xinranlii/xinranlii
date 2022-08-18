@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Xinran Li
 - 👀 I’m interested in software development and machine learning.
-- 🌱 I’m currently doing a few researches.
 - 📫 My email address is xinranli@bu.edu
 
 <!---
